@@ -59,7 +59,6 @@ p {
     line-height: 1.4rem;
 
 }
-
 ol {
     margin-left: 30px;
 }
@@ -127,4 +126,7 @@ footer p{
 footer small{
     font-size: 80%;
     display: block;
+}
+.cog-branding__powered {
+    visibility: hidden !important;
 }
